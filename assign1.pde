@@ -70,7 +70,7 @@ image(treasure,50+b,100+c);
 
 
 
-//hp 
+//hp
 rect(24,36,a,12); 
 fill(255,0,0,240);
 stroke(255,0,0,70);
